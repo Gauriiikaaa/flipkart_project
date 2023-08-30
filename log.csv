@@ -1,0 +1,6 @@
+log_id,date,user,activity,status,label
+1,2022-01-01,john@company.com,Copied customer data to laptop,Unauthorized,0
+2,2022-01-05,alice@company.com,Accessed production server,Unauthorized,0
+3,2022-01-07,bob@company.com,Uploaded code changes to production,Policy Violation,1
+4,2022-01-12,john@company.com,Shared password with coworker,Security Breach,2
+5,2022-01-15,david@company.com,Restarted production server,Admin Activity Logged,3
